@@ -14,6 +14,9 @@ https://user-images.githubusercontent.com/80107070/204553420-c5ad0186-d7f3-4efa-
 
 ## Módulo 14 - **Iterators & Coroutines**<br/>
 
+Atividade do módulo:<br/>
+Alterar os scripts BlinkTilemapColor e BlinkSprite de "Update" para "Coroutine"
+
 BlinkTilemapColor.cs<br/>
 ![image](https://user-images.githubusercontent.com/80107070/205086913-0abc970f-c2bc-44e1-a7ce-39ec78678122.png)<br/>
 
